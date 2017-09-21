@@ -1,5 +1,5 @@
 # Estrutura de dados
-Estruturas de dados em Java
+Em Java:
 <ul>
   <li>Lista</li>
   <li>Fila</li>
